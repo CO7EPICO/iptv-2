@@ -60,6 +60,9 @@ https://media.streambrothers.com:1936/8158/8158/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", 45TV
 https://video1.getstreamhosting.com:1936/8216/8216/.m3u8
 
+#EXTINF:-1 tvg-id="JEMRTV.hn@HD",JEMR TV (1080p) [Geo-blocked]
+https://tv.webmedialive.com/jmrtv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nPYjPmC/RSV.png" tvg-group="HONDURAS", TEN Canal 10
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 
